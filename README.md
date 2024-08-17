@@ -4,7 +4,7 @@ FactoryMethod.cpp - Фабричный метод\
 abstractFactory.cpp - Абстрактная фабрика\
 builder.cpp - Строитель\
 Prototype.cpp - Прототип\
-singleton.cpp - Одиночка\
+singleton.cpp - Одиночка
 
 # Поведенческие паттерны
 observer.cpp - Обозреватель\
