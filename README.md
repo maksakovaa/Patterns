@@ -7,7 +7,8 @@ Prototype.cpp - Прототип\
 singleton.cpp - Одиночка
 # Структурные паттерны
 Adapter.cpp - Адаптер\
-Bridge.cpp - Мост
+Bridge.cpp - Мост\
+Composite.cpp - Компоновщик
 # Поведенческие паттерны
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
