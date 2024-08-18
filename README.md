@@ -5,7 +5,8 @@ abstractFactory.cpp - Абстрактная фабрика\
 builder.cpp - Строитель\
 Prototype.cpp - Прототип\
 singleton.cpp - Одиночка
-
+# Структурные паттерны
+Adapter.cpp - Адаптер
 # Поведенческие паттерны
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
