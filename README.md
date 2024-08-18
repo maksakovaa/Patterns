@@ -6,7 +6,8 @@ builder.cpp - Строитель\
 Prototype.cpp - Прототип\
 singleton.cpp - Одиночка
 # Структурные паттерны
-Adapter.cpp - Адаптер
+Adapter.cpp - Адаптер\
+Bridge.cpp - Мост
 # Поведенческие паттерны
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
