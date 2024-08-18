@@ -8,7 +8,8 @@ singleton.cpp - Одиночка
 # Структурные паттерны
 Adapter.cpp - Адаптер\
 Bridge.cpp - Мост\
-Composite.cpp - Компоновщик
+Composite.cpp - Компоновщик\
+Decorator.cpp - Декоратор
 # Поведенческие паттерны
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
