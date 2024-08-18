@@ -10,7 +10,8 @@ Adapter.cpp - Адаптер\
 Bridge.cpp - Мост\
 Composite.cpp - Компоновщик\
 Decorator.cpp - Декоратор\
-Facade.cpp - Фасад
+Facade.cpp - Фасад\
+Flyweight.cpp - Приспособленец
 # Поведенческие паттерны
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
