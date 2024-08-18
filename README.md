@@ -11,7 +11,8 @@ Bridge.cpp - Мост\
 Composite.cpp - Компоновщик\
 Decorator.cpp - Декоратор\
 Facade.cpp - Фасад\
-Flyweight.cpp - Приспособленец
+Flyweight.cpp - Приспособленец\
+Proxy.cpp - Заместитель
 # Поведенческие паттерны
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
