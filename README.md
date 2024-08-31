@@ -18,5 +18,6 @@ ChainOfResponsibility.cpp - Цепочка обязанностей\
 Command.cpp - Команда\
 Interpreter.cpp - Интерпретатор\
 Iterator.cpp - Итератор\
+Mediator.cpp - Посредник\
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
