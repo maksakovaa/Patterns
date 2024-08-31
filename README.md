@@ -16,5 +16,6 @@ Proxy.cpp - Заместитель
 # Поведенческие паттерны
 ChainOfResponsibility.cpp - Цепочка обязанностей\
 Command.cpp - Команда\
+Interpreter.cpp - Интерпретатор\
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
