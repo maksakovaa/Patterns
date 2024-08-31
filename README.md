@@ -14,5 +14,6 @@ Facade.cpp - Фасад\
 Flyweight.cpp - Приспособленец\
 Proxy.cpp - Заместитель
 # Поведенческие паттерны
+ChainOfResponsibility.cpp - Цепочка обязанностей\
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
