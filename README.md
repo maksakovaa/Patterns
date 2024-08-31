@@ -15,5 +15,6 @@ Flyweight.cpp - Приспособленец\
 Proxy.cpp - Заместитель
 # Поведенческие паттерны
 ChainOfResponsibility.cpp - Цепочка обязанностей\
+Command.cpp - Команда\
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
