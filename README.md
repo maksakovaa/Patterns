@@ -17,5 +17,6 @@ Proxy.cpp - Заместитель
 ChainOfResponsibility.cpp - Цепочка обязанностей\
 Command.cpp - Команда\
 Interpreter.cpp - Интерпретатор\
+Iterator.cpp - Итератор\
 observer.cpp - Обозреватель\
 visitor.cpp - Посетитель
