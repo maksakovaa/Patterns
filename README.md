@@ -22,4 +22,5 @@
 [Memento.cpp](https://github.com/maksakovaa/Patterns/blob/main/Memento.cpp) - Снимок\
 [observer.cpp](https://github.com/maksakovaa/Patterns/blob/main/observer.cpp) - Обозреватель\
 [State.cpp](https://github.com/maksakovaa/Patterns/blob/main/State.cpp) - Состояние\
+[Strategy.cpp](https://github.com/maksakovaa/Patterns/blob/main/Strategy.cpp) - Стратегия\
 [visitor.cpp](https://github.com/maksakovaa/Patterns/blob/main/visitor.cpp) - Посетитель
