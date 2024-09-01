@@ -23,4 +23,5 @@
 [observer.cpp](https://github.com/maksakovaa/Patterns/blob/main/observer.cpp) - Обозреватель\
 [State.cpp](https://github.com/maksakovaa/Patterns/blob/main/State.cpp) - Состояние\
 [Strategy.cpp](https://github.com/maksakovaa/Patterns/blob/main/Strategy.cpp) - Стратегия\
+[TemplateMethod.cpp](https://github.com/maksakovaa/Patterns/blob/main/TemplateMethod.cpp) - Шаблонный метод\
 [visitor.cpp](https://github.com/maksakovaa/Patterns/blob/main/visitor.cpp) - Посетитель
