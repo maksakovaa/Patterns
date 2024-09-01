@@ -19,5 +19,6 @@
 [Interpreter.cpp](https://github.com/maksakovaa/Patterns/blob/main/Interpreter.cpp) - Интерпретатор\
 [Iterator.cpp](https://github.com/maksakovaa/Patterns/blob/main/Iterator.cpp) - Итератор\
 [Mediator.cpp](https://github.com/maksakovaa/Patterns/blob/main/Mediator.cpp) - Посредник\
+[Memento.cpp](https://github.com/maksakovaa/Patterns/blob/main/Memento.cpp) - Снимок\
 [observer.cpp](https://github.com/maksakovaa/Patterns/blob/main/observer.cpp) - Обозреватель\
 [visitor.cpp](https://github.com/maksakovaa/Patterns/blob/main/visitor.cpp) - Посетитель
